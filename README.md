@@ -39,30 +39,39 @@
 - 
   
 <h2 class="heading-element" dir="auto">💻 Project WalkThrough</h2>
-  <img src="" />
+  <img src="https://github.com/tripathicle/tripathicle/blob/main/Devops_project_flowchart.png" />
 
 
 <h2 class="heading-element" dir="auto">💻 My Projects</h2>
-  <a href="https://github.com/sktripathiinfo/WebAutomation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sktripathiinfo&repo=WebAutomation" alt="Web Automation Project" style="max-width: 100%;">
+  <a href=" ">
+  <img src="" alt="Web Automation Project" style="max-width: 100%;">
 </a>
-   
-
-
-
-
-
-
-
-
 
 <h2 class="heading-element" dir="auto">💼 Technical Skills</h2>
 
 
 <p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/tfsec-CE2B37?style=for-the-badge&logo=tfsec&logoColor=white">
+  <img src="https://img.shields.io/badge/tfsec-CE2B37?style=for-the-badge&logo=tfsec&logoColor=white" alt="tfsec">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/TFLint-0089D6?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/TFLint-0089D6?style=for-the-badge&logo=terraform&logoColor=white" alt="TFLint">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+</a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
@@ -71,9 +80,6 @@
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
-  </a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -84,9 +90,6 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   </a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
     <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
   </a>
@@ -95,6 +98,42 @@
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">
     <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+    <!-- DevOps & Cloud Tools Badges -->
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/tfsec-CE2B37?style=for-the-badge&logo=tfsec&logoColor=white">
+  <img src="https://img.shields.io/badge/tfsec-CE2B37?style=for-the-badge&logo=tfsec&logoColor=white" alt="tfsec">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/TFLint-0089D6?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/TFLint-0089D6?style=for-the-badge&logo=terraform&logoColor=white" alt="TFLint">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+</a>
+
   </a>
 </p>
 
@@ -112,19 +151,19 @@
 <h2 align="left" class="heading-element" dir="auto">Contact</h2>
 <p align="center" dir="auto">
   I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at 
-  <a href="mailto:tripathi3006@gmail.com">tripathi3006@gmail.com</a> or connect with me on 
+  <a href="mailto:tripathicle@gmail.com">tripathicle@gmail.com</a> or connect with me on 
   <a href="https://www.linkedin.com/in/tstripathi" rel="nofollow">LinkedIn</a>.
 </p>
 <p align="center">
   <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/tstripathi" rel="nofollow">
-    <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/linkedin.svg" alt="Shubham Tripathi | LinkedIn" width="21px" style="max-width: 100%;">
+    <img src="https://github.com/tripathicle/tripathicle/blob/main/linkedin.svg" alt="Shubham Tripathi | LinkedIn" width="21px" style="max-width: 100%;">
   </a>
   <a href="https://www.instagram.com/tripathicle/" rel="nofollow">
-    <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/instagram.svg" alt="ts_tripathi | Instagram" width="21px" style="max-width: 100%;">
+    <img src="https://github.com/tripathicle/tripathicle/blob/main/instagram.svg" alt="tripathicle | Instagram" width="21px" style="max-width: 100%;">
   </a>
   <a href="https://api.whatsapp.com/send?phone=9648424090&text=Hello" rel="nofollow">
-    <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/whatsapp.png" alt="Shubham Tripathi | Whatsapp" width="21px" style="max-width: 100%;">
+    <img src="https://github.com/tripathicle/tripathicle/blob/main/whatsapp.png" alt="Shubham Tripathi | Whatsapp" width="21px" style="max-width: 100%;">
   </a>
 </p>
 </p>
