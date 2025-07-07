@@ -40,11 +40,19 @@
   
 <h2 class="heading-element" dir="auto">💻 Project WalkThrough</h2>
   <img src="https://github.com/tripathicle/tripathicle/blob/main/Devops_project_flowchart.png" />
+  
+---
 
+<!-- 🌐 TechSpire Project -->
+<h3 align="left">🚀 Projects </h3>
+<a href="https://github.com/tripathicle/TechSpire" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tripathicle&repo=TechSpire" alt="TechSpire Project Card" style="max-width: 100%;">
+</a>
 
-<h2 class="heading-element" dir="auto">💻 My Projects</h2>
-  <a href=" ">
-  <img src="" alt="Web Automation Project" style="max-width: 100%;">
+<!-- 🌾 AgriKart Project -->
+<h3 align="left">🛒 AgriKart</h3>
+<a href="https://github.com/tripathicle/Agrikart" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tripathicle&repo=Agrikart" alt="AgriKart Project Card" style="max-width: 100%;">
 </a>
 
 <h2 class="heading-element" dir="auto">💼 Technical Skills</h2>
