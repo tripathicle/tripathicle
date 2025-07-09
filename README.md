@@ -40,8 +40,8 @@ I'm passionate about delivering high-impact DevOps solutions and am currently op
 </a>
 <!-- TechSpire -->
 <h3 align="left"> CI/CD Pipeline Automation for SaaS Platform </h3>
-<a href="https://github.com/tripathicle/TechSpire" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tripathicle&repo=TechSpire" alt="TechSpire Project Card" style="max-width: 100%;">
+<a href="https://github.com/tripathicle/HavocAI" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tripathicle&repo=HavocAI" alt="HavocAI Project Card" style="max-width: 100%;">
 </a>
 
 <!-- 🌾 AgriKart Project -->
