@@ -144,11 +144,11 @@ I'm passionate about delivering high-impact DevOps solutions and am currently op
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sktripathiinfo&show_icons=true&theme=default" alt="Shubham's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tripathicle&show_icons=true&theme=default" alt="Shubham's GitHub Stats"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sktripathiinfo&layout=compact&theme=default" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathicle&layout=compact&theme=default" alt="Top Languages"/>
 </p>
 
 <h2 align="left" class="heading-element" dir="auto">Contact</h2>
