@@ -10,7 +10,8 @@ Most projects start the same way: a team is scaling, deployments are manual and 
 
 Over the last 5+ years I've built and secured cloud infrastructure for enterprise platforms across automotive, email marketing, e-commerce, and travel domains — including  Volkswagen, Audi After Sales, and Charlee Email Marketing. Some projects were a single Terraform module. Others were full multi-subscription landing zones with policy governance, security scanning, and automated delivery across environments.
 
-Lately, I've been working on
+### Lately, I've been working on
+
 Hub-and-Spoke Terraform architecture on Azure — modular landing zones, peered VNets, centralized networking, and policy-driven governance
 
 Hands-on Kubernetes — moving from learning to shipping: deployments, services, ingress, Helm, and cluster observability
