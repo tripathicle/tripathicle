@@ -3,17 +3,48 @@
   <img src="https://github.com/tripathicle/tripathicle/blob/main/DevSecOps%20Personal%20Profile%20Linkedin%20Banner.png" />
 </p>
 <h3 align="left" class="heading-element" dir="auto">Hi there, I'm <a href="www.linkedin.com/in/tstripathi" rel="nofollow">Shubbham Tripathii</a> 👋</h3>
-DevOps & Cloud Engineer | Azure | Terraform | Pulmi | CI/CD | GitHub Actions | Docker | Linux | Python | Jenkins
+DevOps & Cloud Engineer | Building in public on Azure, Terraform, Kubernetes & AI-driven infrastructure
+I automate infrastructure, secure pipelines, and ship reliable platforms.
+
+Most projects start the same way: a team is scaling, deployments are manual and fragile, and someone needs to make it repeatable. I design the IaC, wire up the CI/CD, bake in security, and hand back a pipeline that just works.
+
+Over the last 5+ years I've built and secured cloud infrastructure for enterprise platforms across automotive, email marketing, e-commerce, and travel domains — including  Volkswagen, Audi After Sales, and Charlee Email Marketing. Some projects were a single Terraform module. Others were full multi-subscription landing zones with policy governance, security scanning, and automated delivery across environments.
+
+Lately, I've been working on
+Hub-and-Spoke Terraform architecture on Azure — modular landing zones, peered VNets, centralized networking, and policy-driven governance
+
+Hands-on Kubernetes — moving from learning to shipping: deployments, services, ingress, Helm, and cluster observability
+
+DevSecOps pipelines — GitHub Actions and Jenkins workflows hardened with TFSec, Checkov, TFLint, and TruffleHog
+
+AI projects from a DevOps perspective — because the next wave of infrastructure is agent-driven, and I want to be the engineer who can deploy, scale, and secure it
+
+Reusable Terraform modules — built to be cloned, adapted, and dropped into any Azure environment
+
+End-to-end CI/CD automation — pipelines that are fast, auditable, and repeatable across every stage
+
+Everything is built to be cloned, run, pulled apart, and adapted. The projects work across Azure, GitHub Actions, Jenkins, Docker, Kubernetes, and modern AI tooling.
+
+
+
 
 📧 tripathicle@gmail.com  
 🔗 [GitHub](https://github.com/tripathicle) | [LinkedIn](https://www.linkedin.com/in/tstripathi)
 
 ---
 
-## 💼 Profile Summary  
-I'm a DevOps & Cloud Engineer with 5+ years of experience designing, automating, and securing cloud infrastructure and CI/CD pipelines at scale. I’ve contributed to enterprise-grade platforms in the automotive domain—including VW MIQ (Volkswagen), Audi After Sales, and Charlee Email Marketing—where I led the development of resilient, secure, and scalable DevOps workflows.
-My expertise spans Infrastructure as Code using Terraform on Azure, CI/CD automation with GitHub Actions and Jenkins, and implementing DevSecOps best practices using tools like TFSec, Checkov, and TruffleHog. I’ve consistently reduced deployment times, enforced compliance standards, and improved system reliability through automation and cloud-native solutions.
-I'm passionate about delivering high-impact DevOps solutions and am currently open to full-time engineering roles or freelance projects focused on infrastructure automation, security, and cloud-native innovation.
+## A bit About Me 
+DevOps & Cloud Engineer with 5+ years of experience designing, automating, and securing cloud infrastructure and CI/CD pipelines at scale. I've led DevOps for enterprise-grade platforms in the automotive domain and delivered measurable wins — faster deployments, stronger compliance, higher reliability — through automation and cloud-native solutions.
+
+My work spans Infrastructure as Code using Terraform on Azure, CI/CD automation with GitHub Actions and Jenkins, and DevSecOps best practices using TFSec, Checkov, TruffleHog, and TFLint. I care about the unglamorous parts: idempotency, least-privilege, drift detection, and pipelines that fail loudly instead of silently.
+
+I'm currently deepening Kubernetes, building AI + DevOps projects to show how agents fit into real infrastructure workflows, and exploring how AI-driven tooling changes the way we ship and secure cloud platforms.
+
+I'm open to full-time engineering roles and freelance projects focused on infrastructure automation, security, and cloud-native innovation.
+
+If you're building something interesting in cloud, platform engineering, or AI-driven infrastructure, feel free to reach out.
+
+Or just pick a repo and start breaking it. That's usually more fun.
 
 ---
 ## 🛠️ Skills  
