@@ -11,7 +11,7 @@ DevOps & Cloud Engineer | Azure | Terraform | Pulmi | CI/CD | GitHub Actions | D
 ---
 
 ## 💼 Profile Summary  
-I'm a DevOps & Cloud Engineer with 3+ years of experience designing, automating, and securing cloud infrastructure and CI/CD pipelines at scale. I’ve contributed to enterprise-grade platforms in the automotive domain—including VW MIQ (Volkswagen), Audi After Sales, and Charlee Email Marketing—where I led the development of resilient, secure, and scalable DevOps workflows.
+I'm a DevOps & Cloud Engineer with 5+ years of experience designing, automating, and securing cloud infrastructure and CI/CD pipelines at scale. I’ve contributed to enterprise-grade platforms in the automotive domain—including VW MIQ (Volkswagen), Audi After Sales, and Charlee Email Marketing—where I led the development of resilient, secure, and scalable DevOps workflows.
 My expertise spans Infrastructure as Code using Terraform on Azure, CI/CD automation with GitHub Actions and Jenkins, and implementing DevSecOps best practices using tools like TFSec, Checkov, and TruffleHog. I’ve consistently reduced deployment times, enforced compliance standards, and improved system reliability through automation and cloud-native solutions.
 I'm passionate about delivering high-impact DevOps solutions and am currently open to full-time engineering roles or freelance projects focused on infrastructure automation, security, and cloud-native innovation.
 
