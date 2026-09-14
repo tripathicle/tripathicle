@@ -10,6 +10,7 @@ Most projects start the same way: a team is scaling, deployments are manual and 
 
 Over the last 5+ years I've built and secured cloud infrastructure for enterprise platforms across automotive, email marketing, e-commerce, and travel domains — including  Volkswagen, Audi After Sales, and Charlee Email Marketing. Some projects were a single Terraform module. Others were full multi-subscription landing zones with policy governance, security scanning, and automated delivery across environments.
 
+---
 ### Lately, I've been working on
 
 Hub-and-Spoke Terraform architecture on Azure — modular landing zones, peered VNets, centralized networking, and policy-driven governance
@@ -26,7 +27,7 @@ End-to-end CI/CD automation — pipelines that are fast, auditable, and repeatab
 
 Everything is built to be cloned, run, pulled apart, and adapted. The projects work across Azure, GitHub Actions, Jenkins, Docker, Kubernetes, and modern AI tooling.
 
-
+---
 
 
 📧 tripathicle@gmail.com  
