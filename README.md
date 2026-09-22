@@ -86,7 +86,8 @@ Or just pick a repo and start breaking it. That's usually more fun.
 <!-- 🛒 AgriKart -->
 <h3 align="left">🛒 AgriKart</h3>
 <a href="https://github.com/tripathicle/Agrikart" target="_blank">
-  <img src="https://opengraph.githubassets.com/1/tripathicle/Agrikart" alt="AgriKart" width="100" />
+  <img src="https://github.com/tripathicle/Agrikart/blob/main/Agrikart.png" alt="AgriKart" width="1000" />
+   <img src="https://github.com/tripathicle/Agrikart/blob/main/Agrikart-footer-1.png" alt="AgriKart" width="1000" />
 </a>
 <h2 class="heading-element" dir="auto">💼 Technical Skills</h2>
 
