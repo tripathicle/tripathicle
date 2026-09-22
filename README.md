@@ -67,22 +67,26 @@ Or just pick a repo and start breaking it. That's usually more fun.
 ---
 
 <!-- 🌐 Hub-Spoke Landing Zone -->
-<h3 align="left"> Projects </h3>
+<h3 align="left">🌐 Hub-Spoke Landing Zone</h3>
 <a href="https://github.com/tripathicle/Workload-Landing-Zone" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tripathicle&repo=Hub-Spoke Landing Zone" alt="Hub-Spoke Landing Zone" style="max-width: 100%;">
-</a>
-<!-- Hub-Spoke Landing Zone -->
-<h3 align="left"> CI/CD Pipeline Automation for SaaS Platform </h3>
-<a href="https://github.com/tripathicle/Workload-Landing-Zone" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tripathicle&repo=Hub-Spoke Landing Zone" alt="Hub-Spoke Landing Zone" style="max-width: 100%;">
+  <img src="https://opengraph.githubassets.com/1/tripathicle/Workload-Landing-Zone" alt="Hub-Spoke Landing Zone" width="100" />
 </a>
 
-<!-- 🌾 AgriKart Project -->
+<br><br>
+
+<!-- 🔄 CI/CD Pipeline Automation -->
+<h3 align="left">🔄 CI/CD Pipeline Automation for SaaS Platform</h3>
+<a href="https://github.com/tripathicle/Workload-Landing-Zone" target="_blank">
+  <img src="https://opengraph.githubassets.com/1/tripathicle/Workload-Landing-Zone" alt="CI/CD Pipeline Automation" width="100" />
+</a>
+
+<br><br>
+
+<!-- 🛒 AgriKart -->
 <h3 align="left">🛒 AgriKart</h3>
 <a href="https://github.com/tripathicle/Agrikart" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tripathicle&repo=Agrikart" alt="AgriKart Project Card" style="max-width: 100%;">
+  <img src="https://opengraph.githubassets.com/1/tripathicle/Agrikart" alt="AgriKart" width="100" />
 </a>
-
 <h2 class="heading-element" dir="auto">💼 Technical Skills</h2>
 
 
