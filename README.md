@@ -66,15 +66,15 @@ Or just pick a repo and start breaking it. That's usually more fun.
   
 ---
 
-<!-- 🌐 TechSpire Project -->
-<h3 align="left">🚀 Projects </h3>
-<a href="https://github.com/tripathicle/TechSpire" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tripathicle&repo=TechSpire" alt="TechSpire Project Card" style="max-width: 100%;">
+<!-- 🌐 Hub-Spoke Landing Zone -->
+<h3 align="left"> Projects </h3>
+<a href="https://github.com/tripathicle/Workload-Landing-Zone" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tripathicle&repo=Hub-Spoke Landing Zone" alt="Hub-Spoke Landing Zone" style="max-width: 100%;">
 </a>
-<!-- TechSpire -->
+<!-- Hub-Spoke Landing Zone -->
 <h3 align="left"> CI/CD Pipeline Automation for SaaS Platform </h3>
-<a href="https://github.com/tripathicle/HavocAI" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tripathicle&repo=HavocAI" alt="HavocAI Project Card" style="max-width: 100%;">
+<a href="https://github.com/tripathicle/Workload-Landing-Zone" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tripathicle&repo=Hub-Spoke Landing Zone" alt="Hub-Spoke Landing Zone" style="max-width: 100%;">
 </a>
 
 <!-- 🌾 AgriKart Project -->
