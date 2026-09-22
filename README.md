@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/tripathicle/tripathicle/blob/main/DevSecOps%20Personal%20Profile%20Linkedin%20Banner.png" />
+  <img src="https://github.com/tripathicle/tripathicle/blob/main/bnner%20image.png" />
 </p>
 <h3 align="left" class="heading-element" dir="auto">Hi there, I'm <a href="www.linkedin.com/in/tstripathi" rel="nofollow">Shubbham Tripathii</a> 👋</h3>
 DevOps & Cloud Engineer | Building in public on Azure, Terraform, Kubernetes & AI-driven infrastructure
