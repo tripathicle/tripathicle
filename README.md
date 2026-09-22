@@ -64,12 +64,13 @@ Or just pick a repo and start breaking it. That's usually more fun.
 <h2 class="heading-element" dir="auto">💻 Project WalkThrough</h2>
   <img src="https://github.com/tripathicle/tripathicle/blob/main/Devops_project_flowchart.png" />
   
+  
 ---
 
 <!-- 🌐 Hub-Spoke Landing Zone -->
 <h3 align="left">🌐 Hub-Spoke Landing Zone</h3>
 <a href="https://github.com/tripathicle/Workload-Landing-Zone" target="_blank">
-  <img src="https://opengraph.githubassets.com/1/tripathicle/Workload-Landing-Zone" alt="Hub-Spoke Landing Zone" width="100" />
+  <img src="https://github.com/tripathicle/tripathicle/blob/main/Hub-Spoke%20Landing%20Zone%20Monolith%20Architecture.png" alt="Hub-Spoke Landing Zone" width="1000" />
 </a>
 
 <br><br>
@@ -77,7 +78,7 @@ Or just pick a repo and start breaking it. That's usually more fun.
 <!-- 🔄 CI/CD Pipeline Automation -->
 <h3 align="left">🔄 CI/CD Pipeline Automation for SaaS Platform</h3>
 <a href="https://github.com/tripathicle/Workload-Landing-Zone" target="_blank">
-  <img src="https://opengraph.githubassets.com/1/tripathicle/Workload-Landing-Zone" alt="CI/CD Pipeline Automation" width="100" />
+  <img src="https://github.com/tripathicle/tripathicle/blob/main/ci-cd%20flow.png" alt="CI/CD Pipeline Automation" width="1100" />
 </a>
 
 <br><br>
